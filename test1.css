@@ -1,0 +1,109 @@
+
+        #h2{
+            color:rgb(0, 119, 128);
+        }
+        #p1{
+            border-width:3px;
+            border-style:inset;
+            background-color: rgb(75, 136, 248);
+            color: aliceblue;
+            width: 900px;
+        }
+        
+        #p2{
+            text-indent: 40px;
+        }
+        #p3{
+            border-width:3px;
+            border-style:inset;
+            background-color: rgb(75, 136, 248);
+            color: aliceblue;
+            width: 900px;
+            position: absolute;
+            top:300px;
+            
+        }
+        #p4{
+            border-width:3px;
+            border-style:inset;
+            background-color: rgb(75, 136, 248);
+            color: aliceblue;
+            width: 900px;
+            position: absolute;
+            top:400px;
+        }
+        #p5{
+            text-indent: 40px;
+            font-size:5px;
+        }
+        #p6{
+            border-width:3px;
+            border-style:inset;
+            background-color: rgb(75, 136, 248);
+            color: aliceblue;
+            width: 900px;
+            position: absolute;
+            top:520px;
+        }
+        #p7{
+            border-width:3px;
+            border-style:inset;
+            background-color: rgb(75, 136, 248);
+            color: aliceblue;
+            width: 900px;
+            position: absolute;
+            top:630px;
+        }
+        #p8{
+            text-indent: 2em;
+        }
+        #p9{
+           left: 70px;
+           position: relative;
+           color: aliceblue;
+           font-size:15px;
+        }
+        #div1{
+            position: absolute;
+            top:120px;
+            left: 100px;
+            font-size:15px;
+        }
+        #div2{
+            top:120px;
+            position: absolute;
+            left:50px;
+        }
+        #div3{
+            top:120px;
+            position: absolute;
+            left: 350px;
+        }
+        #div4{
+            top:360px;
+            position: absolute;
+            left:90px;
+        }
+        #div5{
+            top:410px;
+            position: absolute;
+            left:90px;
+        }
+        #div6{
+            top:530px;
+            position: absolute;
+            left:70px;
+        }
+        #div7{
+            top:640px;
+            position: absolute;
+            left:90px;
+        }
+        #div8{
+            top:80px;
+            position: absolute;
+            left:920px;
+            background-color: rgb(75, 136, 248);
+            width:300px;
+        }
+    
